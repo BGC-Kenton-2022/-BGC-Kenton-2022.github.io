@@ -1,1 +1,1 @@
-# -BGC-Kenton-2022.github.io
+# BGC-Kenton-2022.github.io
